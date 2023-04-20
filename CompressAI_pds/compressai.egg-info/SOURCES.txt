@@ -79,6 +79,12 @@ compressai/zoo/__init__.py
 compressai/zoo/image.py
 compressai/zoo/pretrained.py
 compressai/zoo/video.py
+jpeg-dna-metrics/__init__.py
+jpeg-dna-metrics/setup.py
+jpeg-dna-metrics/compression/__init__.py
+jpeg-dna-metrics/compression/rates.py
+jpeg-dna-metrics/quality/__init__.py
+jpeg-dna-metrics/quality/psnr.py
 tests/test_bench_codec.py
 tests/test_bench_codec_video.py
 tests/test_codec.py
