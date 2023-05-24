@@ -67,4 +67,4 @@ class GoldmanCoder(AbstractCoder):
 class GoldmanCoderDNA(GoldmanCoder):
     """DNA Goldman Coder"""
     def __init__(self):
-        super().__init__(["A", "T", "C", "G"])
+        super().__init__(["C", "G", "A", "T"])
